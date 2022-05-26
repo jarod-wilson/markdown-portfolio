@@ -1,3 +1,1 @@
-[Fintechtocat](https://octodex.github.com/images/Fintechtocat.png)
-
-Look at this cool picture
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
